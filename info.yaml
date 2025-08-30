@@ -16,7 +16,7 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "ON_OFF"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
@@ -26,14 +26,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "Q1"
+  uo[1]: "Q2"
+  uo[2]: "Q3"
+  uo[3]: "Q4"
+  uo[4]: "Q5"
+  uo[5]: "Q6"
+  uo[6]: "Q7"
+  uo[7]: "Q8"
 
   # Bidirectional pins
   uio[0]: ""
